@@ -1,0 +1,7 @@
+/* use div.text if both are in the same class, and div .text if ".text" is a class within the div */
+div .text{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
